@@ -2,13 +2,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=thekips&show_icons=true&inc">
 </a>
 
-👋 Hi, I’m @thekips
+👋 我是若天
 
-👀 I’m interested in singing, painting and watching cartoons.
+👀 爱好时唱、跳、rap和篮球
 
-🌱 I’m currently learning Japanese.
+🌱 现在正在进修日语
 
-📫 You reach me at [My Blog](https://zsznote.com/)
+📫 有空可以逛逛爷的 [博客](https://zsznote.com/)
 
-我是废物！请大家多多帮助我，谢谢！
+我是废物，谢谢！
 —— 世末歌者
